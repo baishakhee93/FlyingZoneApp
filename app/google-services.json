@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310748004712",
+    "project_id": "flyingzone-de28c",
+    "storage_bucket": "flyingzone-de28c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310748004712:android:cc04d2eea7a4195e5716dd",
+        "android_client_info": {
+          "package_name": "com.flyingzone.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310748004712-9170t2snuj4qbokkdnfgqi8ivqn59l3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu64pIIjItPpjq3JjHKOEkCjkJUrt9Go4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310748004712-9170t2snuj4qbokkdnfgqi8ivqn59l3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

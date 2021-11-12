@@ -1,0 +1,2 @@
+rootProject.name = "FlyingZone"
+include ':app'

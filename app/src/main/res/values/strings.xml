@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlyingZone</string>
+    <string name="register">If Not Have Account <u> <i>click here</i></u> and Create New Account ?</string>
+    <string name="login">If Already Have Account <u> <i>click here</i></u> and Login ?</string>
+    <string name="email">flyingzone30@gmail.com</string>
+    <string name="mobile">9113191504</string>
+    <string name="mobile2">8789486091</string>
+<!--
+    <string name="interstitial_full_screen">ca-app-pub-7106981806500353/9067860447</string>
+-->
+    <string name="interstitial_full_screen">ca-app-pub-7106981806500353/9067860447</string>
+</resources>
